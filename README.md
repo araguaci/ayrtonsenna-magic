@@ -12,6 +12,19 @@ Este espaço é um tributo a um homem que não apenas dominou as pistas, mas tam
 
 ---
 
+# 30 YEARS AFTER THE PASSING OF AYRTON SENNA DA SILVA (34 YEARS)
+
+Ayrton Senna da Silva, an icon of motorsport, left a legacy that transcends sport. His passion, dedication and competitive spirit are remembered and celebrated not only in Brazil, but around the world. Senna demonstrated that determination and love for what you do are fundamental to overcoming challenges and achieving success. His quote, “With your mental power, your determination, your instinct and experience too, you can fly very high”, reflects the essence of his life and career philosophy.
+
+His memory lives on, inspiring not only drivers and motorsport enthusiasts, but all those who seek excellence and passion in their own lives. Ayrton Senna will always be remembered as a national hero, an excellent pilot and an extraordinary human being whose life, although short, was lived with intensity and purpose.
+
+This space is a tribute to a man who not only dominated the track, but also won hearts around the world with his humanity and his unwavering commitment to excellence.
+
+  - [Magic Senna](https://ayrtonsenna-magic.vercel.app/)
+
+
+---
+
 # Astro Multiverse
 
 [![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
