@@ -8,6 +8,10 @@ Sua memória continua viva, inspirando não apenas pilotos e entusiastas do auto
 
 Este espaço é um tributo a um homem que não apenas dominou as pistas, mas também conquistou corações ao redor do mundo com sua humanidade e seu compromisso inabalável com a excelência.
 
+  - [Magic Senna](https://ayrtonsenna-magic.vercel.app/)
+
+---
+
 # Astro Multiverse
 
 [![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
