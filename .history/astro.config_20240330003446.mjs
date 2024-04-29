@@ -2,5 +2,5 @@ import { defineConfig } from 'astro/config'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://ayrtonsenna-magic.vercel.app/',
+  site: 'https://astro-multiverse.vercel.app',
 })

@@ -1,11 +1,11 @@
 {
-  "name": "ayrtonsenna-magic",
+  "name": "astro-multiverse",
   "version": "23.9.9",
   "private": true,
   "license": "CCA-3.0",
   "author": {
     "name": "AREA44",
-    "url": "https://ayrtonsenna-magic.vercel.app/"
+    "url": "https://github.com/AREA44/astro-multiverse"
   },
   "scripts": {
     "build": "astro build",
